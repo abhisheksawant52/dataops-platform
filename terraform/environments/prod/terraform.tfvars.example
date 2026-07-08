@@ -1,0 +1,6 @@
+region                = "us-east-1"
+environment           = "prod"
+project               = "dataops-platform"
+data_lake_bucket_name = "my-org-dataops-datalake-prod"
+warehouse_node_type   = "ra3.xlplus"
+vpc_cidr              = "10.30.0.0/16"

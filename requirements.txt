@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+pydantic-settings>=2.2
+pandas>=2.2
+sqlalchemy>=2.0
+networkx>=3.2
+structlog>=24.1

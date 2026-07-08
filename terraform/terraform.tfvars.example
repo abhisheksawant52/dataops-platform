@@ -1,0 +1,10 @@
+region                = "us-east-1"
+environment           = "dev"
+project               = "dataops-platform"
+data_lake_bucket_name = "my-org-dataops-datalake-dev"
+warehouse_node_type   = "dc2.large"
+vpc_cidr              = "10.20.0.0/16"
+
+tags = {
+  Owner = "data-platform-team"
+}
